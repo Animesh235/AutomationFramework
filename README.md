@@ -11,7 +11,7 @@ Before running the tests, make sure you have the following installed:
 - [Maven](https://maven.apache.org/download.cgi): Install Apache Maven, which is a build automation tool primarily used for Java projects. Maven simplifies the build process and manages project dependencies.
 
 ## Test Scenarios
-Navigation Bar Tests
-Click on navigation items and verify corresponding headers.
-Toggle dark mode and verify changes.
-Search for a keyword and verify search results.
+Navigation Bar Tests:
+- Click on navigation items and verify corresponding headers.
+- Toggle dark mode and verify changes.
+- Search for a keyword and verify search results.
